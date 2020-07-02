@@ -29,9 +29,10 @@ h1 {
 }
 
 p {
-    padding: 4%;
+    padding: 5%;
     clear: right;
     font-size: 100%;
+    line-height: 1.8;
 }
 
 /*Style in large screen*/
